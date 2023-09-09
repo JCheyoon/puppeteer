@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "puppeteer": "^21.1.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node-notifier": "^8.0.2"
+  }
+}
